@@ -1,6 +1,17 @@
 # Confidential-e_Degree-Repository-using-Blockchain
 
-"Confidential e-Degree Repository using Blockchain" aims to provide a decentralized and transparent solution to manage degree issuing and validation process. The idea is implemented for a University having multiple affiliated colleges, or any entity managing degrees or certificates, to store degree/certificate validation proof on a blockchain system. This project currently uses Ethereum blockchain,and tested on Ropsten Testnet. Once a degree is committed on the blockchain, anyone is able to verify if the degree submitted to him is genuine or fake. For example, an employer/interviewer can verify qualification of  interviewee.
+## Slides
+[View slides](https://www.slideshare.net/Karan9711/confidential-edegree-repository-using-blockchain)
+
+## Abstract
+
+This project is part of the project requirement for degree of B.Tech(Computer Science & Engineering). This project comprises two fundamental parts: the design and implementation of a decentralized application and this document, which is the technical part of the project. This work is based on research on the Blockchain technology. 
+
+Fake education certificates or fake degree is one of the major concerns in higher education. The fraud can be minimized if there is a tamper-proof and confidential registry of certificates wherein not one but multiple certified authorities verifies and stores the issued certificate in immutable repositories with proper privacy maintained. Secondly there should be a mechanism for retrieving the authentic certificate without much cost and time.
+
+Basic idea for choosing only Blockchain as a solution is, Blockchain is a distributed database that has a set of blocks sorted chronologically. In those blocks the information is stored in full and consistent form. These features have been met because the blocks have a link between them, so that it is not possible to perform any kind of alteration. The project is based on analysis on a use case applying the technology previously introduced.
+
+"Confidential e-Degree Repository using Blockchain" aims to provide a decentralized and transparent solution to manage degree issuing and validation process. The idea is implemented for a University having multiple affiliated colleges, or any entity managing degrees or certificates, to store degree/certificate validation proof on a blockchain system. This project currently uses Ethereum blockchain,and tested on Ropsten Testnet. Once a degree is committed on the blockchain, anyone is able to verify if the degree submitted to him is genuine or fake.
 
 ## Getting Started
 
@@ -21,6 +32,7 @@ Follow the below steps to get you a copy of the project up and running on your l
 
 ## Running the decentralized web application
 
+On command prompt, type
 * node server.js
 * node validate.js
 Then, visit:
