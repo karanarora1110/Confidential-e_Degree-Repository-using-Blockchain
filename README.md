@@ -5,7 +5,7 @@
 
 Follow the below steps to get you a copy of the project up and running on your local machine. This project contain a decentralized web application to deploy degree record and validating a submitted degree.
 
-##Prerequisites
+## Prerequisites
 -NodeJs installed
 -MySQL
 -Express Server
