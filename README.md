@@ -40,6 +40,10 @@ Then, visit:
 * http://localhost:3000  //For deployment
 * http://localhost:3001  //For validation
 
+## Mentor
+
+* Dr. Rekha Kashyap, Head, Deptt of Computer Science & Engineering, Inderprastha Engineering College.
+
 ## Authors
 
 * [Karan Arora](https://github.com/karanarora1110)
