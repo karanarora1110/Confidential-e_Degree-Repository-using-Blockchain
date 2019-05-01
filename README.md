@@ -7,13 +7,13 @@ Follow the below steps to get you a copy of the project up and running on your l
 
 ## Prerequisites
 
-*NodeJs installed
-*MySQL
-*Express Server
-*Ropsten Testnet account with some test ethers
+* NodeJs installed
+* MySQL
+* Express Server
+* Ropsten Testnet account with some test ethers
 
 ## Installing
 
-*Download dependencies or copy them from folder- node_modules.
-*Make a ropsten testnet account and request some test ethers in it from vault.
-*Make 2 tables in MySQL, according to instructions given in sql.md file.
+* Download dependencies or copy them from folder- node_modules.
+* Make a ropsten testnet account and request some test ethers in it from vault.
+* Make 2 tables in MySQL, according to instructions given in sql.md file.
