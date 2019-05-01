@@ -35,6 +35,7 @@ Follow the below steps to get you a copy of the project up and running on your l
 On command prompt, type
 * node server.js
 * node validate.js
+
 Then, visit:
 * http://localhost:3000  //For deployment
 * http://localhost:3001  //For validation
