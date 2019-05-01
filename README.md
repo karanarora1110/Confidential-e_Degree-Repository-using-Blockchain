@@ -31,7 +31,7 @@ Then, visit:
 
 * [Karan Arora](https://github.com/karanarora1110)
 * [Megha Sharma](https://github.com/megha96950)
-* [Asad Aazam](https://githun.com/asadaazam)
+* [Asad Aazam](https://github.com/asadaazam)
 
 ## License
 
