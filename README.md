@@ -30,5 +30,9 @@ Then, visit:
 ## Authors
 
 * [Karan Arora](https://github.com/karanarora1110)
-*
-*
+* [Megha Sharma](https://github.com/megha96950)
+* [Asad Aazam](https://githun.com/asadaazam)
+
+## License
+
+Developers are free to learn/fork/modify the source code for personal and learning purposes. Any commercial use of code is strictly prohibited, without the consent of developers. Anyone found using source code or idea for any commercial purpose will be bound to legal action.
