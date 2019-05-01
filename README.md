@@ -6,7 +6,13 @@
 Follow the below steps to get you a copy of the project up and running on your local machine. This project contain a decentralized web application to deploy degree record and validating a submitted degree.
 
 ## Prerequisites
--NodeJs installed
--MySQL
--Express Server
--Ropsten Testnet account with some test ethers
+1.NodeJs installed
+2.MySQL
+3.Express Server
+4.Ropsten Testnet account with some test ethers
+
+## Installing
+
+1.Download dependencies or copy them from folder- node_modules.
+2.Make a ropsten testnet account and request some test ethers in it from vault.
+3.Make 2 tables in MySQL, according to instructions given in sql.md file.
