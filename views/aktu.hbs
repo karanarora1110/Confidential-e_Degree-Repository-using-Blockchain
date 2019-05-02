@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=UnifrakturCook:700' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Berkshire Swash' rel='stylesheet'>
+    <link href='https://fonts.googleapis.com/css?family=Acme' rel='stylesheet'>
+    <title>Document</title>
+    {{!-- <script>function data(){
+    document.getElementById('name').innerHTML={{name}};
+    document.getElementById('degree').innerHTML="B.Tech";
+    document.getElementById('father').innerHTML="Santosh Sharma";
+    document.getElementById('grade').innerHTML="B";
+    document.getElementById('marks').innerHTML="700/900";
+    document.getElementById('univ').innerHTML="ABC Technical University";
+    document.getElementById('doa').innerHTML="26-Aug-2020";
+    document.getElementById('roll').innerHTML="1603010113";
+    } --}}
+    
+    {{!-- </script> --}}
+    <style>body{border:10px solid blue;
+    min-height: 100vh;-webkit-margin-collapse:unset;
+    background-image: url('/images/2018-quatrefoil-background-white.jpg')
+    }
+        img{width:100px;height:100px;margin:10px;}
+        #a{text-align: center;}
+        #b{margin-top:20px;}
+        #x{font-family:'UnifrakturCook'}
+       
+       
+        #c,#d{float: left;height:auto;width:50%;margin-top:50px;}
+        #c td,#d td{padding:10px;}#c table,#d table{margin:auto;}
+        .ent{font-family: 'Acme';font-size:18px;color:black;text-align:left;white-space: nowrap;}
+        #name,#father,#roll,#degree,#univ,#degree,#marks,#grade,#doa{
+            font-family:'Calligraffitti';font-weight: bolder;font-size:18px;white-space: nowrap;text-align:left; }
+            @media screen and (max-width:780px){#c,#d{float:none;width:100%;} #d{margin-top:0px;}
+            #c table,#d table{width:70%;}.ent{width:50%;}
+            }
+            @media screen and (max-width:630px){
+            #c table,#d table{width:90%;} .ent{font-size:14px;}
+            #name,#father,#roll,#degree,#univ,#degree,#marks,#grade,#doa{font-size:14px;}
+            }
+            @media screen and (max-width:425px){
+            #c table,#d table{width:100%;} .ent{font-size:10px;}
+            #name,#father,#roll,#degree,#univ,#degree,#marks,#grade,#doa{font-size:10px;}
+            #x{font-size:23px;}
+            }
+    </style>
+</head>
+<body onload="data();"><div class="container">
+    <div id="a">
+        <h1 style="white-space:nowrap;" id="x">{{uvi}}</h1>
+        <img src="/images/uptu_logo.png" alt="#"/>
+        <p style="margin-top:10px;"><b>(Line 1)</b></p>
+        <p><b>(Line 2)</b></p>
+        <p><b>(Line 3)</b></p>
+        <h1 style="font-family:'UnifrakturCook';color:red;">{{degree}}</h1></div>
+       <div id="c"><table><tr><td class="ent"><b>Student Name : </b><i> {{name}}</i></td><td id="name"></td> </tr>
+       <tr><td class="ent"><b>Roll No :</b><i> {{roll}}</i></td><td id="roll"></td> </tr>
+    <tr><td class="ent"><b>Course :</b><i> {{course}}</i></td><td id="degree"></td> </tr>
+<tr><td class="ent"><b>University :</b><i> {{univ}}</i></td><td id="univ"></td>
+    </tr></table></div>
+
+    <div id="d"><table><tr><td class="ent"><b>Father's Name :</b><i> {{fatherName}}</i></td><td id="father"></td> <tr>
+        {{!-- <tr><td class="ent"><b>Marks :</b></td><td id="marks"></td> </tr> --}}
+    <tr><td class="ent"><b>Grade :</b><i> {{grade}}</i></td><td id="grade"></td> </tr>
+<tr>  <td class="ent"><b>Date of Award :</b><i> {{date}}</i></td><td id="doa"></td>
+    </tr></table>
+    </div>
+
+</div>
+    
+</body>
+</html>
