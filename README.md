@@ -28,7 +28,7 @@ Follow the below steps to get you a copy of the project up and running on your l
 
 * Download dependencies or copy them from folder- node_modules.
 * Make a ropsten testnet account and request some test ethers in it from the vault.
-* Make 2 tables in MySQL, according to instructions given in sql.md file.
+* Make 3 tables in MySQL, according to instructions given in mysql.md file.
 
 ## Running the decentralized web application
 
