@@ -52,7 +52,7 @@ Then, visit:
 
 ## Support
 
-For any help/assistance, please feel free to [contact](arora.karan82@gmail.com)
+For any help/assistance, please feel free to contact developer at [arora.karan82@gmail.com](<a href="mailto:arora.karan82@gmail.com"></a>)
 
 ## License
 
