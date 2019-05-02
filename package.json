@@ -1,0 +1,32 @@
+{
+  "name": "degree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "aes-js": "file:node_modules/aes-js",
+    "body-parser": "^1.18.3",
+    "create-react-app": "^1.5.2",
+    "ethers": "^4.0.0",
+    "express": "^4.16.4",
+    "fs-extra": "^7.0.0",
+    "hbs": "^4.0.3",
+    "ipfs-api": "^24.0.1",
+    "ipfs-image-web-upload": "^1.0.5",
+    "js-sha256": "^0.9.0",
+    "mysql": "^2.16.0",
+    "npm": "^6.5.0",
+    "qrious": "^4.0.2",
+    "react-bootstrap": "^0.32.4",
+    "web3": "1.0.0-beta.37"
+  },
+  "devDependencies": {
+    "lite": "^2.4.0"
+  },
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node validate.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
