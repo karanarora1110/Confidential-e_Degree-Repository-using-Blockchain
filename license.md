@@ -6,6 +6,9 @@ For permissions/questions, you can contact authors.
 
 ## Authors
 
-* [Karan Arora](https://github.com/karanarora1110) Email: arora.karan82@gmail.com
-* [Megha Sharma](https://github.com/megha96950) Email: akan96950@gmail.com
-* [Asad Aazam](https://github.com/asadaazam) Email: asadaazamcse16@gmail.com
+* [Karan Arora](https://github.com/karanarora1110)
+Mail: arora.karan82@gmail.com
+* [Megha Sharma](https://github.com/megha96950)
+Mail: akan96950@gmail.com
+* [Asad Aazam](https://github.com/asadaazam)
+Mail: asadaazamcse16@gmail.com
