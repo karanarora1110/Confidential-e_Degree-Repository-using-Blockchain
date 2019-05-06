@@ -47,12 +47,15 @@ Then, visit:
 ## Authors
 
 * [Karan Arora](https://github.com/karanarora1110)
+#### Mail: arora.karan82@gmail.com
 * [Megha Sharma](https://github.com/megha96950)
+#### Mail: akan96950@gmail.com
 * [Asad Aazam](https://github.com/asadaazam)
+#### Mail: asadaazamcse16@gmail.com
 
 ## Support
 
-For any help/assistance, please feel free to contact developer at arora.karan82@gmail.com
+For any help/assistance, please feel free to contact developers at above email addresses.
 
 ## License
 
