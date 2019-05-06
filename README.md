@@ -59,6 +59,6 @@ For any help/assistance, please feel free to contact developers at above email a
 
 ## License
 
-### All rights reserved with authors.(See license.md for details)
+### All rights reserved with authors(See license.md for details).
 
 Developers are free to learn/fork/modify the source code for learning purposes only. Any commercial use of the code is strictly prohibited, without the written consent of authors. Anyone found using source code or idea for any commercial purpose will be bound to legal action.
